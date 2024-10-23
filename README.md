@@ -364,10 +364,13 @@
 
 <h2>Watched</h2>
             <div class="row-posters">
-                <a href="https://anix.to/anime/the-kings-avatar-6nx4/ep-1">
-                    <div class="tooltip">The King's Avatar</div>
-                    <img src="S86475ce3fb89455dbb141d1f7363f97a0.png" alt="The King's Avatar" width="200" height="300" onclick="openLink('https://anix.to/anime/the-kings-avatar-6nx4/ep-1')">
-                </a>
+             <div class="row-posters">
+    <a href="https://anix.to/anime/the-kings-avatar-6nx4/ep-1">
+        <div class="tooltip">The King's Avatar</div>
+        <img src="data:image/png;base64,UklGRtSfAgBXRUJQVlA4IMifAgDQKwedASruAigEPl0mj0..." alt="The King's Avatar" width="200" height="300" onclick="openLink('https://anix.to/anime/the-kings-avatar-6nx4/ep-1')">
+    </a>
+</div>
+
                 <a href="https://anix.to/anime/solo-leveling-3rpv2/ep-1">
                     <div class="tooltip">Solo Leveling</div>
                     <img src="359624ee690b1744a5a978cd251f5401.png" alt="Solo Leveling" width="200" height="300" onclick="openLink('https://anix.to/anime/solo-leveling-3rpv2/ep-1')">
